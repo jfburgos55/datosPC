@@ -8,3 +8,5 @@ OS,
 Idioma Instalado,
 Memoria Fisica,
 Plataforma.
+
+Aplicación realizada en visual studio community 2017.
