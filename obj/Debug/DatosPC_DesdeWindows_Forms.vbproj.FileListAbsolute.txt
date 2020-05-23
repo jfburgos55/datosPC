@@ -1,0 +1,10 @@
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\bin\Debug\DatosPC_DesdeWindows_Forms.exe
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\bin\Debug\DatosPC_DesdeWindows_Forms.pdb
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\bin\Debug\DatosPC_DesdeWindows_Forms.xml
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.Form1.resources
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.Resources.resources
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.vbproj.GenerateResource.cache
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.vbproj.CoreCompileInputs.cache
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.exe
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.xml
+C:\Users\devp\source\repos\DatosPC_DesdeWindows_Forms\obj\Debug\DatosPC_DesdeWindows_Forms.pdb
